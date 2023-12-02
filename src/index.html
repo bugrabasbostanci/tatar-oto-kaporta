@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="tr" class="scroll-smooth scroll-pt-24">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Tatar Oto Kaporta - Boya Bozmadan Düzeltme, Doğrultma ve Onarım Merkezi
+    </title>
+    <meta
+      name="description"
+      content="Tatar Oto Kaport, boya bozmadan düzeltme, doğrultma ve onarım merkezi."
+    />
+    <!-- <link rel="canonical" href="url-here" /> -->
+    <meta name="author" content="Buğra Başbostancı" />
+    <meta name="geo.a3" content="Manisa" />
+    <meta name="geo.country" content="tr" />
+    <meta name="geo.placename" content="Turgutlu Manisa" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Tatar Oto Kaporta - Boya Bozmadan Düzeltme, Doğrultma ve Onarım Merkezi"
+    />
+    <meta
+      property="og:description"
+      content="Tatar Oto Kaport, boya bozmadan düzeltme, doğrultma ve onarım merkezi."
+    />
+    <!-- <meta property="og:url" content="url-here" /> -->
+    <meta property="og:site_name" content="Tatar Oto Kaporta" />
+
+    <meta
+      property="og:image"
+      content="https://www.brsotoestetik.com/assets/img/brs-oto-estetik-700x500.jpg"
+    />
+    <meta property="og:image:width" content="100%" />
+    <meta property="og:image:height" content="100%" />
+    <meta
+      property="og:image:secure_url"
+      content="https://www.brsotoestetik.com/assets/img/brs-oto-estetik-700x500.jpg"
+    />
+    <meta property="og:image:alt" content="Brs Oto Estetik" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="BRS Oto Estetik - Gaziemir'de Profesyonel Oto Kaporta ve Boya Hizmetleri"
+    />
+    <meta
+      name="twitter:description"
+      content="BRS Oto Estetik, Gaziemir'de profesyonel oto kaporta ve boya hizmetleri sunan güvenilir bir firma."
+    />
+    <meta name="twitter:url" content="https://www.brsotoestetik.com/" />
+    <meta
+      name="twitter:image"
+      content="https://www.brsotoestetik.com/assets/img/brs-oto-estetik-700x500.jpg"
+    />
+    <meta name="twitter:site" content="@brsotoestetik" />
+    <link rel="stylesheet" href="/dist/output.css" />
+    <!-- favicon -->
+    <link rel="shortcut icon" href="/favicon.svg" type="image/x-icon" />
+    <!-- swiper CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <!-- font awesome icons -->
+    <script
+      src="https://kit.fontawesome.com/d50705f12e.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- nav -->
+    <nav class="bg-white fixed w-full z-20 top-0 start-0">
+      <div
+        class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
+      >
+        <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
+          <img src="/TATAR LG.svg" class="h-12" alt="Tatar Oto Logo" />
+          <span
+            class="self-center text-3xl font-semibold whitespace-nowrap text-[#E3000E]"
+            >Tatar Oto</span
+          >
+        </a>
+        <button
+          data-collapse-toggle="navbar-dropdown"
+          type="button"
+          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-300 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+          aria-controls="navbar-dropdown"
+          aria-expanded="false"
+        >
+          <span class="sr-only">Open main menu</span>
+          <svg
+            class="w-5 h-5"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 17 14"
+          >
+            <path
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M1 1h15M1 7h15M1 13h15"
+            />
+          </svg>
+        </button>
+        <div class="hidden w-full md:block md:w-auto" id="navbar-dropdown">
+          <ul
+            class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 bg-white"
+          >
+            <li>
+              <a
+                href="#hakkımızda"
+                class="block py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#E3000E] md:p-0"
+                aria-current="page"
+                >Hakkımızda</a
+              >
+            </li>
+            <li>
+              <a
+                href="#features"
+                class="block py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#E3000E] md:p-0"
+                aria-current="page"
+                >Tercih Sebeplerimiz</a
+              >
+            </li>
+            <li>
+              <button
+                id="dropdownNavbarLink"
+                data-dropdown-toggle="dropdownNavbar"
+                class="flex items-center justify-between w-full py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#E3000E] md:p-0"
+              >
+                Hizmetlerimiz
+                <svg
+                  class="w-2.5 h-2.5 ms-2.5"
+                  aria-hidden="true"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 10 6"
+                >
+                  <path
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="m1 1 4 4 4-4"
+                  />
+                </svg>
+              </button>
+              <!-- Dropdown menu -->
+              <div
+                id="dropdownNavbar"
+                class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600"
+              >
+                <ul
+                  class="py-2 text-sm text-gray-700 dark:text-gray-400"
+                  aria-labelledby="dropdownLargeButton"
+                >
+                  <li>
+                    <a
+                      href="#boyasız-göçük-düzeltme"
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600"
+                      >Boya Bozmadan Göçük Düzeltme</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="#pasta-cila"
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600"
+                      >Pasta cila</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="#kaporta"
+                      class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600"
+                      >Kaporta</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </li>
+            <li>
+              <a
+                href="#galeri"
+                class="block py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#E3000E] md:p-0"
+                >Galeri</a
+              >
+            </li>
+            <li>
+              <a
+                href="#iletişim"
+                class="block py-2 px-3 text-black rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-[#E3000E] md:p-0"
+                >İletişim</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- hero -->
+    <section
+      class="flex items-center justify-center xl:h-[110vh] h-[55vh]"
+      style="
+        background-image: url(/grid-bg.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      "
+    >
+      <div class="px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
+        <h1
+          class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-8xl"
+        >
+          Tatar Oto Kaporta
+          <!-- Boya bozmadan doğrultma, düzeltme ve onarım merkezi -->
+        </h1>
+        <h1
+          class="mb-4 hidden text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-8xl"
+        >
+          Tatar Oto Kaporta - Boya bozmadan doğrultma, düzeltme ve onarım
+          merkezi
+        </h1>
+        <p
+          class="mb-4 text-xl font-normal text-gray-400 lg:text-2xl sm:px-16 xl:px-48"
+        >
+          Boya bozmadan düzeltme, doğrultma ve onarım merkezi
+        </p>
+        <p
+          class="mb-8 text-md font-normal text-gray-400 lg:text-xl sm:px-16 xl:px-48"
+        >
+          Aracınız değer kaybetmesin istiyorsanız bize uğrayın
+        </p>
+        <div
+          class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4"
+        >
+          <a
+            href="#features"
+            class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center bg-white text-[#E3000E] rounded-lg border border-[#E3000E] hover:bg-[#E3000E] hover:text-white hover:border-white focus:ring-4 focus:ring-[#E3000E]"
+          >
+            Neden Biz ?
+          </a>
+        </div>
+      </div>
+    </section>
+    <!-- who we are -->
+    <section id="hakkımızda" class="bg-black flex items-center">
+      <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+        <div class="mx-auto max-w-screen-md">
+          <h2
+            class="mb-4 text-5xl tracking-tight font-extrabold leading-tight text-white text-center"
+          >
+            Tatar Oto Kaporta
+          </h2>
+          <p
+            class="mb-6 px-4 lg:px-0 font-light text-gray-300 md:text-2xl md:text-center text-left"
+          >
+            Tatar Oto Kaporta, Turgutlu'da boya bozmadan düzeltme, doğrultma ve
+            onarım merkezi olarak 12 yıldan fazla süredir hizmet vermektedir.
+            Dolu hasarı, park göçüğü, pasta cila işlemleri gibi geniş bir
+            yelpazedeki sorunları uzman ekibimizle itina ile çözüyoruz. Sizlere
+            kaliteli, hızlı ve güvenilir hizmet sunmaktan gurur duyuyoruz.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- features -->
+    <section
+      id="features"
+      class="bg-black flex items-center"
+      style="min-height: 80vh"
+    >
+      <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+        <h2
+          class="mb-24 text-5xl tracking-tight font-extrabold text-white text-center"
+        >
+          Tercih Sebeplerimiz
+        </h2>
+        <div
+          class="space-y-8 grid md:grid-cols-2 lg:grid-cols-3 lg:grid-rows-none md:gap-12 md:space-y-0 text-center mt-16 grid-cols-1 grid-rows-3 gap-y-8"
+        >
+          <!-- uzmanlık alanlarımız -->
+          <div>
+            <div class="flex justify-center items-center mb-4">
+              <i class="fa-solid fa-book text-4xl text-[#E3000E]"></i>
+            </div>
+            <h3 class="mb-2 text-3xl font-bold text-white">
+              Uzmanlık Alanlarımız
+            </h3>
+            <p class="text-gray-300 text-xl">
+              Araçlarınızı uzman ekibimizle en üst düzeyde onarıyoruz
+            </p>
+          </div>
+          <!-- hızlı ve güvenilir -->
+          <div>
+            <div class="flex justify-center items-center mb-4">
+              <i class="fa-regular fa-clock text-4xl text-[#E3000E]"></i>
+            </div>
+            <h3 class="mb-2 text-3xl font-bold text-white">
+              Hızlı ve Güvenilir
+            </h3>
+            <p class="text-gray-300 text-xl">
+              Hizmetlerimizdeki hız ve güvenilirlikle sizi bekletmiyoruz
+            </p>
+          </div>
+
+          <!-- müşteri memnuniyeti -->
+          <div>
+            <div class="flex justify-center items-center mb-4">
+              <i class="fa-solid fa-user-check text-4xl text-[#E3000E]"></i>
+            </div>
+            <h3 class="mb-2 text-3xl font-bold text-white">
+              Müşteri Memnuniyeti
+            </h3>
+            <p class="text-gray-300 text-xl">
+              Her zaman müşteri memnuniyetini ön planda tutuyoruz
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- hizmetlerimiz -->
+    <section id="hizmetlerimiz" class="bg-white flex items-center">
+      <div class="py-8 px-6 mx-auto max-w-screen-lg sm:py-16 lg:px-0">
+        <h2
+          class="mb-4 text-5xl tracking-tight font-extrabold text-black text-center"
+        >
+          Hizmetlerimiz
+        </h2>
+        <div class="lg:gap-12 lg:grid lg:grid-cols-1 mt-16">
+          <div class="flex flex-col lg:flex-row gap-8 justify-between">
+            <div class="lg:order-1 order-2 pb-12">
+              <h3
+                id="boyasız-göçük-düzeltme"
+                class="text-2xl tracking-tight font-extrabold text-black lg:text-left text-center"
+              >
+                Boya Bozmadan Göçük Düzeltme
+              </h3>
+              <p class="md:text-left text-center text-black">
+                Aracınızdaki göçükleri boyasız düzeltme yöntemimizle hızlıca ve
+                izsiz bir şekilde onarıyoruz, böylece aracınızın orijinal
+                görünümünü koruyoruz.
+              </p>
+            </div>
+            <img
+              class="h-auto lg:max-w-[500px] max-w-full rounded-xl mx-auto lg:order-2 order-1 shadow-2xl"
+              src="https://www.brsotoestetik.com/assets/img/boyasiz-gocuk-duzeltme-700x500.jpg"
+              alt="Tatar Oto Kaporta - Boya bozmadan göçük düzeltme hizmeti"
+            />
+          </div>
+          <div class="flex flex-col lg:flex-row gap-8 justify-between">
+            <div class="order-2 pb-12">
+              <h3
+                id="pasta-cila"
+                class="text-2xl tracking-tight font-extrabold text-gray-900 lg:text-left text-center"
+              >
+                Pasta Cila
+              </h3>
+              <p class="md:text-left text-center">
+                Profesyonel pasta cila işlemlerimizle aracınıza parlaklık
+                kazandırırken, aynı zamanda çizikleri giderip uzun süreli bir
+                koruma sağlıyoruz.
+              </p>
+            </div>
+            <img
+              class="h-auto lg:max-w-[500px] max-w-full mx-auto rounded-xl order-1 shadow-2xl"
+              src="https://images.pexels.com/photos/5233279/pexels-photo-5233279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              alt="Tatar Oto Kaporta - Pasta cila hizmeti"
+            />
+          </div>
+          <div class="flex flex-col lg:flex-row gap-8 justify-between">
+            <div class="lg:order-1 order-2">
+              <h3
+                id="kaporta"
+                class="text-2xl tracking-tight font-extrabold text-gray-900 lg:text-left text-center"
+              >
+                Kaporta
+              </h3>
+              <p class="md:text-left text-center">
+                Uzman ekibimiz, kaza veya darbeler sonucu oluşan kaporta
+                hasarlarını itina ile düzelterek aracınızın güvenliğini ve
+                estetiğini yeniden kazandırır.
+              </p>
+            </div>
+            <img
+              class="h-auto lg:max-w-[500px] max-w-full mx-auto rounded-xl lg:order-2 order-1 shadow-2xl"
+              src="https://www.brsotoestetik.com/assets/img/brs-oto-estetik-700x500.jpg"
+              alt="Tatar Oto Kaporta - Kaporta onarım hizmeti"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- galeri -->
+    <section id="galeri" class="bg-black flex items-center">
+      <div class="py-8 lg:px-4 mx-auto max-w-screen-xl sm:py-16">
+        <h2
+          class="mb-12 text-5xl tracking-tight font-extrabold text-white text-center"
+        >
+          Galeri
+        </h2>
+        <!-- Slider main container -->
+        <div
+          class="swiper mySwiper max-w-[350px] max-h-[466px] lg:max-w-[700px] lg:max-h-[932px]"
+        >
+          <!-- Additional required wrapper -->
+          <div class="swiper-wrapper">
+            <!-- Slides -->
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-2.fna.fbcdn.net/v/t39.30808-6/245341311_2946283628967971_5731472673155029371_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=GS-uXH2TOpkAX_y8YHv&_nc_ht=scontent.fadb6-2.fna&oh=00_AfCbAMfz3BdW3dYzLP1IU0H1qgJ4ZcbB4fjzC2HKn3Fu8Q&oe=656E633B"
+                alt="Tatar Oto Kaporta - İşlem öncesi kaportanın resmi"
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-1.fna.fbcdn.net/v/t39.30808-6/245387767_2946284008967933_7486520982262449788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=KHdn12w5zXUAX_OsI4X&_nc_ht=scontent.fadb6-1.fna&oh=00_AfC2QTYijEQ42x6W36hGFeyIDV8JiFHTkw-1R_t6Gx-sYg&oe=656F0AD5"
+                alt="Tatar Oto Kaporta - İşlem sonrası kaportanın resmi"
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-5.fna.fbcdn.net/v/t39.30808-6/244435721_2937155236547477_411662102762513233_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=yN8dBJeJofQAX_BEvZ9&_nc_ht=scontent.fadb6-5.fna&oh=00_AfCsLPXRPRPu2xdkJjpUr35n6AyALrzZ9sDYGRbrIbicWg&oe=656EA5EC"
+                alt=""
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-3.fna.fbcdn.net/v/t39.30808-6/244398458_2937155419880792_364103597033202102_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=HTyxtL5mfnIAX8kRdua&_nc_ht=scontent.fadb6-3.fna&oh=00_AfBdhUwEHTuKTAnNpQBUYPFC_e77QYzKMOeJLZzueA_rtA&oe=656F8C22"
+                alt=""
+              />
+            </div>
+
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-5.fna.fbcdn.net/v/t39.30808-6/241260604_2912855385644129_6795630236638186818_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=rmqU5jyRbOoAX9uhU5C&_nc_ht=scontent.fadb6-5.fna&oh=00_AfDRT-FbeNqf5kyRI4DSowoB-NfPp6Ai7kZzwnoTd8yxqA&oe=65700DC8"
+                alt=""
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-5.fna.fbcdn.net/v/t39.30808-6/241270145_2912855568977444_4572069965446851206_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=PZoyHVv1P-EAX8LW575&_nc_ht=scontent.fadb6-5.fna&oh=00_AfDo1w5RQ-ibITnSVUri5xbsflbDe4ON9R6M5uHTqFqc2g&oe=656FA0B5"
+                alt=""
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-2.fna.fbcdn.net/v/t1.6435-9/119702703_2639850066277997_8583968785895663847_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=RPaIT7zezZIAX_XTt9j&_nc_ht=scontent.fadb6-2.fna&oh=00_AfDLnyhQKxXuXrFLp5Ng-qkrBwzKgdOVUfVPHoNdZlotYw&oe=65918573"
+                alt=""
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-1.fna.fbcdn.net/v/t1.6435-9/119659796_2639850212944649_4393836674861733815_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=VasEKzZWEaMAX9lRk7D&_nc_ht=scontent.fadb6-1.fna&oh=00_AfCfMPagnC9Zk8k61qqmG6-hlmFrWzU3gk-6Vu33t0sEGA&oe=6591A200"
+                alt=""
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-5.fna.fbcdn.net/v/t39.30808-6/214562620_2869183910011277_250473653587413142_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=LiW89VYA7SQAX-55gnM&_nc_ht=scontent.fadb6-5.fna&oh=00_AfDh9sHD-6KwKU8tMXgHHgmRzhCAgBRKPQo3q2KyXXteWQ&oe=656FEFF7"
+                alt=""
+              />
+            </div>
+            <div class="swiper-slide">
+              <img
+                class="h-auto mx-auto lg:max-w-full max-w-[350px]"
+                src="https://scontent.fadb6-3.fna.fbcdn.net/v/t39.30808-6/214457452_2869184116677923_8886937710878094994_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=7MsMDOllQuEAX_y09JJ&_nc_ht=scontent.fadb6-3.fna&oh=00_AfD1V-QSjw3xmtnKBR2NehUeCA6S_VjJepuUc8mpj3yCDA&oe=656E41A8"
+                alt=""
+              />
+            </div>
+          </div>
+          <!-- If we need pagination -->
+          <div class="swiper-pagination"></div>
+
+          <!-- If we need navigation buttons -->
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+      </div>
+    </section>
+    <!-- iletişim -->
+    <section id="iletişim" class="bg-white flex items-center">
+      <div class="py-8 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+        <h2
+          class="mb-4 text-5xl tracking-tight font-extrabold text-black text-center"
+        >
+          Bize Ulaşın
+        </h2>
+        <div
+          class="space-y-8 lg:grid-cols-3 lg:gap-12 lg:space-y-0 text-center mt-16 grid grid-rows-1 grid-cols-1 gap-y-8 mx-auto"
+        >
+          <iframe
+            class="lg:max-w-[800px] max-w-[350px] lg:max-h-[600px] max-h-[225px] col-span-2 mx-auto"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3122.777574546634!2d27.716646176474068!3d38.492774070476315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b9a7ec043c95ed%3A0xa0bc6dbd2e968df7!2sSelvilitepe%2C%20119.%20Sk.%20No%3A24%2C%2045400%20Turgutlu%2FManisa!5e0!3m2!1str!2str!4v1701458315233!5m2!1str!2str"
+            width="800"
+            height="600"
+            style="border: 0"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+          <div class="flex flex-col items-center justify-center gap-y-16">
+            <div class="flex flex-col gap-y-4">
+              <h4 class="text-2xl font-medium text-[#E3000E]">Adres</h4>
+              <a
+                class="font-medium text-blue-600 hover:underline px-8 lg:px-0"
+                href="https://maps.app.goo.gl/y3CLoV7W9YfCRvbo9"
+                target="_blank"
+                >Fatih Sanayi Sitesi 119 Sokak No:32 Turgutlu/Manisa</a
+              >
+            </div>
+            <div class="flex flex-col gap-y-4">
+              <h4 class="text-2xl font-medium text-[#E3000E]">Email</h4>
+              <a
+                class="font-medium text-blue-600 hover:underline"
+                href="mailto:example@gmail.com"
+                >example@gmail.com</a
+              >
+            </div>
+            <div class="flex flex-col gap-y-4">
+              <h4 class="text-2xl font-medium text-[#E3000E]">Whatsapp</h4>
+              <a
+                class="font-medium text-blue-600 hover:underline"
+                aria-label="Chat on WhatsApp"
+                href="https://wa.me/905553334422"
+                target="_blank"
+              >
+                <img
+                  class="lg:w-64 w-48"
+                  src="/WhatsAppButtonGreenSmall.png"
+                  alt=""
+              /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- footer -->
+    <footer class="bg-white shadow">
+      <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
+        <hr class="my-6 border-gray-400 sm:mx-auto lg:my-8" />
+        <span class="block text-xs text-black text-center"
+          >© 2023 Tatar Oto Kaporta - Tüm hakları saklıdır.</span
+        >
+      </div>
+    </footer>
+
+    <!-- swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script type="module">
+      import Swiper from "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs";
+
+      const swiper = new Swiper(".mySwiper", {
+        pagination: {
+          el: ".swiper-pagination",
+        },
+        loop: true,
+        centeredSlides: true,
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>
+
+    <!-- flowbite JS -->
+    <script src="/node_modules/flowbite/dist/flowbite.min.js"></script>
+  </body>
+</html>
