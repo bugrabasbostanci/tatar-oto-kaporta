@@ -2,10 +2,10 @@
   "name": "tailwind-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css",
-    "watch": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "build": "npx tailwindcss -i ./input.css -o ./css/output.css",
+    "watch": "npx tailwindcss -i ./input.css -o ./css/output.css --watch"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "flowbite": "^2.2.0",
-    "sharp": "^0.33.0",
+    "sharp": "^0.31.1",
     "swiper": "^11.0.5"
   }
 }
