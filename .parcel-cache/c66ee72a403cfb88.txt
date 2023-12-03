@@ -5,7 +5,7 @@
 125C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133460971700694107 0
 87C:\Users\pc\Desktop\tatar-oto-test\node_modules\tailwindcss\src\lib\findAtConfigPath.js133460971701112995 0
 54C:\Users\pc\Desktop\tatar-oto-test\node_modules\base-x133460971688080943 1
-39C:\Users\pc\Desktop\tatar-oto-test\dist133460974725726399 1
+39C:\Users\pc\Desktop\tatar-oto-test\dist133460980484934945 1
 68C:\Users\pc\Desktop\tatar-oto-test\node_modules\semver\bin\semver.js133460971697572458 0
 62C:\Users\pc\Desktop\tatar-oto-test\node_modules\domelementtype133460971690364127 1
 81C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\dist\schema\json\schema.d.ts133460971704523870 0
@@ -93,7 +93,7 @@
 52C:\Users\pc\Desktop\tatar-oto-test\node_modules\svgo133460971696585093 1
 76C:\Users\pc\Desktop\tatar-oto-test\node_modules\fast-glob\out\types\index.js133460971694121688 0
 92C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133460971689107493 0
-45C:\Users\pc\Desktop\tatar-oto-test\index.html133460973462100707 0
+45C:\Users\pc\Desktop\tatar-oto-test\index.html133460980221685313 0
 89C:\Users\pc\Desktop\tatar-oto-test\node_modules\sucrase\dist\esm\parser\util\charcodes.js133460971690912666 0
 64C:\Users\pc\Desktop\tatar-oto-test\node_modules\sucrase\dist\esm133460971701791177 1
 100C:\Users\pc\Desktop\tatar-oto-test\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js.flow133460971701681473 0
@@ -1688,7 +1688,7 @@
 99C:\Users\pc\Desktop\tatar-oto-test\node_modules\swiper\shared\effect-virtual-transition-end.min.mjs133460971704723336 0
 96C:\Users\pc\Desktop\tatar-oto-test\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133460971698938798 0
 88C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\browser\dist\stringify\stringify.js133460971701940774 0
-50C:\Users\pc\Desktop\tatar-oto-test\dist\index.html133460974725646605 0
+50C:\Users\pc\Desktop\tatar-oto-test\dist\index.html133460980484925218 0
 95C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\browser\dist\stringify\stringifyComment.js133460971702080404 0
 117C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\include\glib-2.0\gio\gtlsfiledatabase.h133089201460000000 0
 84C:\Users\pc\Desktop\tatar-oto-test\node_modules\tailwindcss\stubs\tailwind.config.ts133460971706832152 0

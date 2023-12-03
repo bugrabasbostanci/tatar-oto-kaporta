@@ -1,11 +1,11 @@
-9867
+9875
 76C:\Users\pc\Desktop\tatar-oto-test\node_modules\swiper\modules\autoplay.scss133460971705800454 0
 74C:\Users\pc\Desktop\tatar-oto-test\node_modules\swiper\modules\history.css133460971697811812 0
 102C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\lib\libgobject-2.0-0.dll133089259380000000 0
 125C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133460971700694107 0
 87C:\Users\pc\Desktop\tatar-oto-test\node_modules\tailwindcss\src\lib\findAtConfigPath.js133460971701112995 0
 54C:\Users\pc\Desktop\tatar-oto-test\node_modules\base-x133460971688080943 1
-39C:\Users\pc\Desktop\tatar-oto-test\dist133460974247294944 1
+39C:\Users\pc\Desktop\tatar-oto-test\dist133460980387267824 1
 68C:\Users\pc\Desktop\tatar-oto-test\node_modules\semver\bin\semver.js133460971697572458 0
 62C:\Users\pc\Desktop\tatar-oto-test\node_modules\domelementtype133460971690364127 1
 81C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\dist\schema\json\schema.d.ts133460971704523870 0
@@ -93,7 +93,7 @@
 52C:\Users\pc\Desktop\tatar-oto-test\node_modules\svgo133460971696585093 1
 76C:\Users\pc\Desktop\tatar-oto-test\node_modules\fast-glob\out\types\index.js133460971694121688 0
 92C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133460971689107493 0
-45C:\Users\pc\Desktop\tatar-oto-test\index.html133460973462100707 0
+45C:\Users\pc\Desktop\tatar-oto-test\index.html133460980221685313 0
 89C:\Users\pc\Desktop\tatar-oto-test\node_modules\sucrase\dist\esm\parser\util\charcodes.js133460971690912666 0
 64C:\Users\pc\Desktop\tatar-oto-test\node_modules\sucrase\dist\esm133460971701791177 1
 100C:\Users\pc\Desktop\tatar-oto-test\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js.flow133460971701681473 0
@@ -118,7 +118,7 @@
 102C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133460971696026588 0
 65C:\Users\pc\Desktop\tatar-oto-test\node_modules\@msgpackr-extract133460974130267149 1
 82C:\Users\pc\Desktop\tatar-oto-test\node_modules\@swc\helpers\esm\_object_spread.js133460971702758588 0
-47C:\Users\pc\Desktop\tatar-oto-test\package.json133460973801413586 0
+47C:\Users\pc\Desktop\tatar-oto-test\package.json133460974672797741 0
 78C:\Users\pc\Desktop\tatar-oto-test\node_modules\type-fest\ts41\kebab-case.d.ts133460971695029256 0
 84C:\Users\pc\Desktop\tatar-oto-test\node_modules\csso\lib\replace\atrule\keyframes.js133460971700185464 0
 90C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\browser\dist\schema\yaml-1.1\float.js133460971698908882 0
@@ -331,7 +331,7 @@
 71C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\dist\schema\common133460971704643546 1
 82C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\node-resolver-core\LICENSE133460971686305684 0
 79C:\Users\pc\Desktop\tatar-oto-test\node_modules\caniuse-lite\data\regions\SY.js133460971710532263 0
-52C:\Users\pc\Desktop\tatar-oto-test\node_modules\@swc133460973801375236 1
+52C:\Users\pc\Desktop\tatar-oto-test\node_modules\@swc133460974130257175 1
 62C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\events133460971692089518 1
 85C:\Users\pc\Desktop\tatar-oto-test\node_modules\tailwindcss\lib\value-parser\index.js133460971702020561 0
 71C:\Users\pc\Desktop\tatar-oto-test\node_modules\brace-expansion\LICENSE133460971687432685 0
@@ -1688,7 +1688,7 @@
 99C:\Users\pc\Desktop\tatar-oto-test\node_modules\swiper\shared\effect-virtual-transition-end.min.mjs133460971704723336 0
 96C:\Users\pc\Desktop\tatar-oto-test\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133460971698938798 0
 88C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\browser\dist\stringify\stringify.js133460971701940774 0
-50C:\Users\pc\Desktop\tatar-oto-test\dist\index.html133460974247225126 0
+50C:\Users\pc\Desktop\tatar-oto-test\dist\index.html133460980387257851 0
 95C:\Users\pc\Desktop\tatar-oto-test\node_modules\yaml\browser\dist\stringify\stringifyComment.js133460971702080404 0
 117C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\include\glib-2.0\gio\gtlsfiledatabase.h133089201460000000 0
 84C:\Users\pc\Desktop\tatar-oto-test\node_modules\tailwindcss\stubs\tailwind.config.ts133460971706832152 0
@@ -4091,6 +4091,7 @@
 108C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\include\orc-0.4\orc\orcdebug.h133089201460000000 0
 112C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\include\orc-0.4\orc\orcfunctions.h133089201460000000 0
 114C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\include\orc-0.4\orc\orcinstruction.h133089201460000000 0
+60C:\Users\pc\Desktop\tatar-oto-test\dist\favicon.074242f6.svg133460974719062306 0
 64C:\Users\pc\Desktop\tatar-oto-test\node_modules\pump\.travis.yml133460973786862928 0
 81C:\Users\pc\Desktop\tatar-oto-test\node_modules\resolve\test\resolver\baz\quux.js133460971700155546 0
 109C:\Users\pc\Desktop\tatar-oto-test\node_modules\sharp\vendor\8.13.2\win32-x64\include\orc-0.4\orc\orclimits.h133089201460000000 0
@@ -9453,6 +9454,7 @@
 76C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\logger\lib\Logger.js133460971687053688 0
 65C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\graph\lib133460971695208779 1
 69C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\graph\LICENSE133460971686305684 0
+77C:\Users\pc\Desktop\tatar-oto-test\dist\WhatsAppButtonGreenSmall.7a839eb3.png133460974720025232 0
 74C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\graph\package.json133460971695597733 0
 65C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\graph\src133460971695398266 1
 88C:\Users\pc\Desktop\tatar-oto-test\node_modules\@parcel\graph\test\AdjacencyList.test.js133460971689955220 0
@@ -9863,6 +9865,12 @@
 68C:\Users\pc\Desktop\tatar-oto-test\node_modules\.bin\tailwindcss.ps1133460971712806173 0
 75C:\Users\pc\Desktop\tatar-oto-test\node_modules\.bin\update-browserslist-db133460971712806173 0
 60C:\Users\pc\Desktop\tatar-oto-test\dist\favicon.9550a93d.svg133460974247195208 0
+60C:\Users\pc\Desktop\tatar-oto-test\dist\grid-bg.4f7e245b.svg133460974720934661 0
+57C:\Users\pc\Desktop\tatar-oto-test\dist\index.9f0f283e.js133460974725656583 0
+61C:\Users\pc\Desktop\tatar-oto-test\dist\index.9f0f283e.js.map133460974725726399 0
+58C:\Users\pc\Desktop\tatar-oto-test\dist\index.d9fa7e4e.css133460974725656583 0
+62C:\Users\pc\Desktop\tatar-oto-test\dist\index.d9fa7e4e.css.map133460974725726399 0
+61C:\Users\pc\Desktop\tatar-oto-test\dist\TATAR LG.277f96c9.svg133460974719181979 0
 66C:\Users\pc\Desktop\tatar-oto-test\dist\tatar-oto-test.3464ddca.js133460974247265019 0
 70C:\Users\pc\Desktop\tatar-oto-test\dist\tatar-oto-test.3464ddca.js.map133460974247294944 0
 49C:\Users\pc\Desktop\tatar-oto-test\css\output.css133460971416008962 0
