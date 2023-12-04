@@ -576,6 +576,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"j4kuM":[function(require,module,exports) {
 
-},{}]},["8ANXj","j4kuM"], "j4kuM", "parcelRequiree57d")
+},{}]},["8ANXj","j4kuM"], "j4kuM", "parcelRequire78e6")
 
-//# sourceMappingURL=tatar-oto-test.3464ddca.js.map
+//# sourceMappingURL=tatar-oto-kaporta.3464ddca.js.map
