@@ -10,3 +10,12 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+:root {
+  /* pagination buttons */
+  --swiper-pagination-color: #e3000e;
+  --swiper-pagination-bullet-inactive-color: #e3000e;
+
+  /* navigation arrows */
+  --swiper-navigation-color: #e3000e;
+}

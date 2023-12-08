@@ -1,2 +1,4 @@
 .parcel-cache
-/node_modules
+node_modules
+robots.txt
+sitemap.xml
