@@ -1,4 +1,1 @@
-.parcel-cache
-node_modules
-robots.txt
-sitemap.xml
+/node_modules
