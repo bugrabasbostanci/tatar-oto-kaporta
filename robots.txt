@@ -12,6 +12,6 @@ Disallow: /dist/
 
 Allow: /assets/images/galeri/
 Allow: /dist/index.html/
-Allow: /sitemap.xml
+Allow: /sitemap.xml/
 
 Sitemap: https://www.tatarotokaporta.com/sitemap.xml
