@@ -1,4 +1,4 @@
-9901
+9902
 77C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\yaml\dist\schema\Schema.js133466857955764138 0
 65C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@popperjs\core133466857949999536 1
 101C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133466857956093243 0
@@ -9,9 +9,9 @@
 93C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\tailwindcss\src\processTailwindFeatures.js133466857959045348 0
 73C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\js-tokens\package.json133466857942353822 0
 57C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\swiper133466857960611168 1
-50C:\Users\pc\Desktop\tatar-oto-kaporta\package.json133466850718788654 0
+50C:\Users\pc\Desktop\tatar-oto-kaporta\package.json133466861022924515 0
 85C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\type-fest\ts41\delimiter-case.d.ts133466857947850193 0
-42C:\Users\pc\Desktop\tatar-oto-kaporta\dist133466858296330463 1
+42C:\Users\pc\Desktop\tatar-oto-kaporta\dist133466864675033976 1
 100C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\librsvg-2.0133466857968033839 1
 92C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@popperjs\core\dist\esm\utils\debounce.js133466857959494145 0
 90C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@swc\helpers\_\_iterable_to_array_limit133466857959733513 1
@@ -19,7 +19,7 @@
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\node_modules\node-addon-api\except.gypi133466857944168972 0
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\libxml2133466857972432087 1
 78C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\transformer-css\src133466857943979477 1
-48C:\Users\pc\Desktop\tatar-oto-kaporta\.gitignore133466850717241778 0
+48C:\Users\pc\Desktop\tatar-oto-kaporta\.gitignore133466859346439610 0
 61C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\fs133466857949465872 1
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\SZ.js133466857963640222 0
 78C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\source-map\lib\array-set.js133466857945381195 0
@@ -47,7 +47,7 @@
 53C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\rc133466857947092218 1
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@babel\code-frame\node_modules\supports-color133466857944857130 1
 59C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\chokidar133466857946822935 1
-48C:\Users\pc\Desktop\tatar-oto-kaporta\index.html133466857254398229 0
+48C:\Users\pc\Desktop\tatar-oto-kaporta\index.html133466863646159553 0
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\SA.js133466857963221340 0
 89C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@popperjs\core\lib\popper-lite.js.flow133466857949226508 0
 95C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\yaml\browser\dist\stringify\foldFlowLines.js133466857952971585 0
@@ -604,7 +604,7 @@
 84C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\config\global.js133466857951335962 0
 69C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\ieee754\index.d.ts133466857944922419 0
 89C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\tailwindcss\scripts\release-channel.js133466857959204918 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-3-oncesi.9bcbbb68.jpeg133466858294525299 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-3-oncesi.9bcbbb68.jpeg133466864665179979 0
 59C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\has-flag133466857944767373 1
 74C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\resolve\example\sync.js133466857954617189 0
 57C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\hasown133466857947351530 1
@@ -940,7 +940,7 @@
 71C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\postcss-value-parser133466857946463897 1
 97C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\yaml\browser\dist\compose\resolve-block-map.js133466857954916392 0
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133466857946812975 0
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-1-sonrasi.8845995b.jpeg133466858294525299 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-1-sonrasi.8845995b.jpeg133466864665179979 0
 87C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\yaml\browser\dist\parse\cst-visit.js133466857951914412 0
 76C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\yaml\browser\package.json133466857956960921 0
 67C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\merge2\README.md133466857944278683 0
@@ -2792,7 +2792,7 @@
 101C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133466857955345243 0
 81C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\tailwindcss\lib\lib\offsets.js133466857958137771 0
 90C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\csso\lib\restructure\6-restructBlock.js133466857952413078 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-1-oncesi.81c52a58.jpeg133466858285915612 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-1-oncesi.81c52a58.jpeg133466864655579748 0
 108C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md133466857953240867 0
 78C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\tailwindcss\lib\css\LICENSE133466857944218843 0
 113C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\glib-2.0\glib\genviron.h133089201460000000 0
@@ -2905,7 +2905,7 @@
 86C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\swiper\types\modules\free-mode.d.ts133466857960301987 0
 122C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\libgsf-1\gsf\gsf-open-pkg-utils.h133089201460000000 0
 71C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\hasown\tsconfig.json133466857945500869 0
-63C:\Users\pc\Desktop\tatar-oto-kaporta\dist\grid-bg.6e2dac86.svg133466858291189015 0
+63C:\Users\pc\Desktop\tatar-oto-kaporta\dist\grid-bg.6e2dac86.svg133466864670605072 0
 81C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\swiper\types\modules\grid.d.ts133466857960301987 0
 107C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\components\input-counter\index.d.ts.map133466857958347211 0
 98C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\jconfig.h133089201460000000 0
@@ -3659,7 +3659,7 @@
 121C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\pango-1.0\pango\pango-coverage.h133089201460000000 0
 107C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\types\util\removeMaybeImportAttributes.d.ts133466857957708921 0
 87C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\types\parser\index.d.ts133466857957180333 0
-53C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.html133466858296280595 0
+53C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.html133466864674974134 0
 103C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\types\transformers\FlowTransformer.d.ts133466857956871160 0
 102C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\types\transformers\JSXTransformer.d.ts133466857957369826 0
 119C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\types\transformers\OptionalCatchBindingTransformer.d.ts133466857957499481 0
@@ -3696,7 +3696,6 @@
 99C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\types\parser\plugins\jsx\index.d.ts133466857957200281 0
 70C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\braces\package.json133466857942413667 0
 72C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\msgpackr\package.json133466857950468283 0
-64C:\Users\pc\Desktop\tatar-oto-kaporta\dist\Untitled.1fc14b21.png133466858294525299 0
 103C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\esm\components\accordion\interface.d.ts133466857961485987 0
 100C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\transformers\ESMImportTransformer.js133466857950228923 0
 95C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sucrase\dist\transformers\FlowTransformer.js133466857951126523 0
@@ -4063,7 +4062,7 @@
 123C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\libgsf-1\gsf\gsf-input-iochannel.h133089201460000000 0
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\resolve\test\resolver\same_names\foo\index.js133466857952971585 0
 120C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\pango-1.0\pango\pango-gravity.h133089201460000000 0
-64C:\Users\pc\Desktop\tatar-oto-kaporta\dist\kaporta.39107398.jpeg133466858287002668 0
+64C:\Users\pc\Desktop\tatar-oto-kaporta\dist\kaporta.39107398.jpeg133466864655809133 0
 67C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@alloc\quick-lru133466857944837191 1
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\package-manager\test\fixtures\has-foo133466857951714949 1
 110C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\sharp\vendor\8.13.2\win32-x64\include\libxml2\libxml\hash.h133089201460000000 0
@@ -5319,7 +5318,7 @@
 92C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\postcss-selector-parser\dist\processor.js133466857949505760 0
 78C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\css-tree\lib\lexer\Lexer.js133466857958177670 0
 89C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\postcss-selector-parser\dist\selectors133466857950787427 1
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-6-sonrasi.be41c33f.jpeg133466858287002668 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-6-sonrasi.be41c33f.jpeg133466864655809133 0
 100C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\postcss-selector-parser\dist\util\ensureObject.js133466857947012439 0
 95C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\postcss-selector-parser\dist\util\getProp.js133466857947351530 0
 93C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\postcss-selector-parser\dist\util\index.js133466857948618138 0
@@ -6344,6 +6343,7 @@
 98C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\components\tabs\interface.d.ts133466857961476006 0
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\components\tabs\interface.js133466857955913722 0
 98C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\components\tabs\types.d.ts.map133466857960671007 0
+62C:\Users\pc\Desktop\tatar-oto-kaporta\dist\square.eeafc32b.png133466864655809133 0
 96C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\components\tabs\types.js.map133466857960880442 0
 108C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\csso\node_modules\css-tree\lib\syntax\node\Declaration.js133466857957030736 0
 97C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\flowbite\lib\cjs\components\popover\index.d.ts133466857961166842 0
@@ -7612,7 +7612,7 @@
 72C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\chokidar\node_modules133466857928432292 1
 107C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@babel\code-frame\node_modules\supports-color\browser.js133466857943071918 0
 65C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\chokidar\types133466857946972540 1
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-4-oncesi.85163098.jpeg133466858285915612 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-4-oncesi.85163098.jpeg133466864655739321 0
 84C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\chokidar\node_modules\glob-parent133466857944857130 1
 101C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@babel\code-frame\node_modules\chalk\index.js.flow133466857943760073 0
 92C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\chokidar\node_modules\glob-parent\LICENSE133466857942513394 0
@@ -7687,7 +7687,7 @@
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\DJ.js133466857959833241 0
 77C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@swc\helpers\esm\_throw.js133466857957000813 0
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\DK.js133466857959853186 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-2-oncesi.bf41f802.jpeg133466858287002668 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-2-oncesi.bf41f802.jpeg133466864655809133 0
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\DZ.js133466857960112496 0
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\EC.js133466857960152389 0
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\caniuse-lite\data\regions\EG.js133466857960172335 0
@@ -8989,14 +8989,14 @@
 125C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertEllipseToCircle.js133466857949396059 0
 118C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertPathData.js133466857949545652 0
 119C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertTransform.js133466857949989563 0
-67C:\Users\pc\Desktop\tatar-oto-kaporta\dist\pasta-cila.f5e69304.jpeg133466858294525299 0
+67C:\Users\pc\Desktop\tatar-oto-kaporta\dist\pasta-cila.f5e69304.jpeg133466864665179979 0
 115C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\inlineStyles.js133466857950587961 0
 79C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@jridgewell\gen-mapping\dist133466857946743152 1
 114C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergeStyles.js133466857950887163 0
 115C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\minifyStyles.js133466857950986893 0
 124C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133466857951096599 0
 110C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\plugins.js133466857951535427 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\tatar-oto-logo.277f96c9.svg133466858288199460 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\tatar-oto-logo.277f96c9.svg133466864658551804 0
 112C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\prefixIds.js133466857951635158 0
 114C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttrs.js133466857951844607 0
 122C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeEditorsNSData.js133466857952253508 0
@@ -9309,7 +9309,7 @@
 126C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133466857948677978 0
 131C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font-weight.js133466857950807375 0
 124C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font.js133466857950897135 0
-60C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.9f0f283e.js133466858296280595 0
+60C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.9f0f283e.js133466864674984105 0
 115C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Atrule.js133466857947411361 0
 116C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Comment.js133466857949066935 0
 120C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\Declaration.js133466857950607907 0
@@ -9641,7 +9641,7 @@
 76C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\codeframe\LICENSE133466857942483478 0
 91C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\codeframe\test\codeframe.test.js133466857950528118 0
 87C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\codeframe\test\fixtures\a.js133466857943281350 0
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-2-sonrasi.91c554cd.jpeg133466858285915612 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-2-sonrasi.91c554cd.jpeg133466864655739321 0
 85C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\codeframe\src\codeframe.js133466857950328653 0
 89C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\codeframe\lib\codeframe.js.map133466857952702310 0
 68C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\@parcel\cache\lib133466857949056962 1
@@ -9873,21 +9873,22 @@
 71C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\.bin\tailwindcss.ps1133466857965724936 0
 78C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\.bin\update-browserslist-db133466857965724936 0
 82C:\Users\pc\Desktop\tatar-oto-kaporta\node_modules\.bin\update-browserslist-db.cmd133466857965724936 0
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-3-sonrasi.1e31e055.jpeg133466858287002668 0
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-4-sonrasi.4c0a57d5.jpeg133466858294525299 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-5-oncesi.4bde7ead.jpeg133466858287002668 0
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-5-sonrasi.61372fea.jpeg133466858285915612 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-6-oncesi.9bc3c470.jpeg133466858294525299 0
-70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-7-oncesi.fdb999ea.jpeg133466858285915612 0
-71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-7-sonrasi.47a100cc.jpeg133466858294525299 0
-85C:\Users\pc\Desktop\tatar-oto-kaporta\dist\boya-bozmadan-gocuk-duzeltme.73d4e322.jpeg133466858285860624 0
-61C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.0b0aeb39.css133466858296280595 0
-65C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.0b0aeb39.css.map133466858296320491 0
-64C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.9f0f283e.js.map133466858296320491 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-3-sonrasi.1e31e055.jpeg133466864655809133 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-4-sonrasi.4c0a57d5.jpeg133466864665179979 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-5-oncesi.4bde7ead.jpeg133466864655809133 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-5-sonrasi.61372fea.jpeg133466864655739321 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-6-oncesi.9bc3c470.jpeg133466864665179979 0
+70C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-7-oncesi.fdb999ea.jpeg133466864655739321 0
+71C:\Users\pc\Desktop\tatar-oto-kaporta\dist\arac-7-sonrasi.47a100cc.jpeg133466864665179979 0
+85C:\Users\pc\Desktop\tatar-oto-kaporta\dist\boya-bozmadan-gocuk-duzeltme.73d4e322.jpeg133466864655739321 0
+61C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.0b0aeb39.css133466864674974134 0
+65C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.0b0aeb39.css.map133466864675023998 0
+64C:\Users\pc\Desktop\tatar-oto-kaporta\dist\index.9f0f283e.js.map133466864675033976 0
 48C:\Users\pc\Desktop\tatar-oto-kaporta\assets\css133466850718288980 1
-51C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images133466857125445272 1
+51C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images133466863089640719 1
 63C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\favicon.ico133466850718298952 0
 58C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\galeri133466850718408673 1
+62C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\square.png133466863028112233 0
 75C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\whatsapp-button-img.png133466850718519368 0
 95C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\hizmetler\boya-bozmadan-gocuk-duzeltme.jpeg133466850718428633 0
 73C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\hizmetler\kaporta.jpg133466850718448566 0
@@ -9899,4 +9900,4 @@
 76C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\galeri\arac-5-oncesi.jpg133466850718358793 0
 77C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\galeri\arac-5-sonrasi.jpg133466850718368776 0
 78C:\Users\pc\Desktop\tatar-oto-kaporta\assets\images\galeri\arac-6-sonrasi.jpeg133466850718388730 0
-59C:\Users\pc\Desktop\tatar-oto-kaporta\assets\css\output.css133466858155853948 0
+59C:\Users\pc\Desktop\tatar-oto-kaporta\assets\css\output.css133466864571609964 0
